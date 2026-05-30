@@ -30,3 +30,4 @@ cmake ..
 # Compile
 make -j4
 ```
+4. Turn on your Pico while pressing the BOOTSEL button and copy the compiled .uf2 file to the root of the mounted Pico drive.
