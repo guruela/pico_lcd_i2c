@@ -13,7 +13,7 @@ A C driver to drive the HD44780 LCD module via the PCF8574 I2C Backpack. This is
 | **SDA** | GPIO 4 (Pin 6)        |
 | **SCL** | GPIO 5 (Pin 7)        |
 
-## How to Build
+## How to Build and Run
 
 1. Ensure your `PICO_SDK_PATH` environment variable is set.
 2. Clone this repository to your local machine.
